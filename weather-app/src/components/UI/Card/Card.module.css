@@ -1,0 +1,52 @@
+.weatherCard {
+	padding: 10px;
+	font-weight: 400;
+	font-size: 22px;
+}
+.weatherCardTitle {
+	display: contents;
+}
+.weatherCardTemp {
+	font-weight: 400;
+	font-size: 20px;
+}
+.weatherMinTemp {
+	font-weight: 300;
+	color: var(--bs-gray);
+	font-size: 15px;
+}
+.weatherMaxTemp {
+	font-weight: 400;
+	font-size: 20px;
+}
+.weatherMinTemp::after {
+	content: "\2103";
+	width: 20px;
+	color: var(--bs-gray);
+}
+.weatherMaxTemp::after {
+	content: "\2103";
+	width: 50px;
+	color: var(--bs-light);
+}
+.weatherCardTemp::after {
+	content: "\2103";
+	width: 50px;
+	color: var(--bs-light);
+}
+.weatherCardRegion {
+	border-radius: 25%;
+	background-color: orange;
+	display: inline;
+	position: absolute;
+	top: 5%;
+	font-size: 0.6em;
+	padding: 5px;
+	color: var(--bs-dark);
+}
+.lh7 {
+	line-height: 0.8;
+}
+.relative {
+	position: relative;
+}

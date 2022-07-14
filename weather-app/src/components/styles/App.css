@@ -1,0 +1,70 @@
+.App {
+	height: 100vh;
+	font-family: 'Barlow';
+}
+@font-face {
+	font-family: Barlow;
+	src: url(../fonts/Barlow/Barlow-Thin.ttf);
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: Barlow;
+	src: url(../fonts/Barlow/Barlow-ThinItalic.ttf);
+	font-weight: 100;
+	font-style: italic;
+}
+@font-face {
+	font-family: Barlow;
+	src: url(../fonts/Barlow/Barlow-ExtraLight.ttf);
+	font-weight: 200;
+	font-style: normal;
+}
+@font-face {
+	font-family: Barlow;
+	src: url(../fonts/Barlow/Barlow-ExtraLightItalic.ttf);
+	font-weight: 200;
+	font-style: italic;
+}
+@font-face {
+	font-family: Barlow;
+	src: url(../fonts/Barlow/Barlow-Light.ttf);
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: Barlow;
+	src: url(../fonts/Barlow/Barlow-LightItalic.ttf);
+	font-weight: 300;
+	font-style: italic;
+}
+@font-face {
+	font-family: Barlow;
+	src: url(../fonts/Barlow/Barlow-Regular.ttf);
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: Barlow;
+	src: url(../fonts/Barlow/Barlow-Medium.ttf);
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: Barlow;
+	src: url(../fonts/Barlow/Barlow-Medium.ttf);
+	font-weight: 500;
+	font-style: italic;
+}
+@font-face {
+	font-family: Barlow;
+	src: url(../fonts/Barlow/Barlow-SemiBold.ttf);
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: Barlow;
+	src: url(../fonts/Barlow/Barlow-SemiBoldItalic.ttf);
+	font-weight: 600;
+	font-style: italic;
+}

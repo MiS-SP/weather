@@ -1,0 +1,23 @@
+.color-1 { color: #5C6F73; }
+.color-2 { color: #8FA1A6; }
+.color-3 { color: #D7D8D9; }
+.color-4 { color: #8FA1A6; }
+.color-5 { color: #F2F2F2; }
+.color-6 { color: #7c8e94; }
+
+.bg-color-1 { background-color: #5C6F73; }
+.bg-color-2 { background-color: #8FA1A6; }
+.bg-color-3 { background-color: #D7D8D9; }
+.bg-color-4 { background-color: #8FA1A6; }
+.bg-color-5 { background-color: #F2F2F2; }
+.bg-color-6 {background-color: #7c8e94; }
+.bg-color-7 {background-color:#e9ecef }
+
+.color-1-rgba { color: rgba(91, 110, 114, 1); }
+.color-2-rgba { color: rgba(142, 161, 165, 1); }
+.color-3-rgba { color: rgba(214, 216, 216, 1); }
+.color-4-rgba { color: rgba(49, 62, 63, 1); }
+.color-5-rgba { color: rgba(242, 242, 242, 1); }
+.color-6-rgba {background-color: rgba(124, 142, 148, 1); }
+
+

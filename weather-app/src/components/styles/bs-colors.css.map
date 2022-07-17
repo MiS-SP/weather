@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "bs-colors.scss"
+    ],
+    "names": [],
+    "file": "bs-colors.css"
+}

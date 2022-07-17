@@ -1,8 +1,7 @@
 import React from "react"
 import { FormControl, InputGroup } from "react-bootstrap";
 
-function WeatherInput({...props}) {
-	
+const WeatherInput = ({...props}) => {
 	return (
 		<InputGroup className="m-1 p-1">
 			<InputGroup.Text>Enter city</InputGroup.Text>

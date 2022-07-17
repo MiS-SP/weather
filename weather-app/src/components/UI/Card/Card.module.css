@@ -27,12 +27,12 @@
 .weatherMaxTemp::after {
 	content: "\2103";
 	width: 50px;
-	color: var(--bs-light);
+	color: var(--bs-dark);
 }
 .weatherCardTemp::after {
 	content: "\2103";
 	width: 50px;
-	color: var(--bs-light);
+	color: var(--bs-dark);
 }
 .weatherCardRegion {
 	border-radius: 25%;

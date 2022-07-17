@@ -1,0 +1,23 @@
+.relative {
+	position: relative;
+}
+.weatherCardRegion {
+	border-radius: 25%;
+	background-color: orange;
+	display: inline;
+	position: absolute;
+	top: 5%;
+	font-size: 0.6em;
+	padding: 5px;
+	color: var(--bs-dark);
+}
+.weatherCardTitle {
+	display: contents;
+}
+.lh7 {
+	line-height: 0.8;
+}
+.border {
+	border-color: rgba(0,0,0,.125);
+	border-style: solid;
+}

@@ -10,8 +10,15 @@
 .bg-color-3 { background-color: #D7D8D9; }
 .bg-color-4 { background-color: #8FA1A6; }
 .bg-color-5 { background-color: #F2F2F2; }
-.bg-color-6 {background-color: #7c8e94; }
-.bg-color-7 {background-color:#e9ecef }
+.bg-color-6 { background-color: #7c8e94; }
+.bg-color-7 { background-color:#e9ecef; }
+.bg-color-8 { background-color: #d8e1e5; }
+
+.bg-gray-100 { background-color: var(--bs-gray-100) }
+.bg-gray-200 { background-color: var(--bs-gray-200) }
+.bg-gray-300 { background-color: var(--bs-gray-300) }
+.bg-gray-400 { background-color: var(--bs-gray-400) }
+.bg-gray-500 { background-color: var(--bs-gray-500) }
 
 .color-1-rgba { color: rgba(91, 110, 114, 1); }
 .color-2-rgba { color: rgba(142, 161, 165, 1); }
